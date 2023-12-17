@@ -8,8 +8,8 @@ export const navbar = [
     // link: "/client",
     children: [
       {
-        text: "Vue",
-        link: "/client-note/vue.md",
+        text: "Next",
+        link: "/client-note/next.md",
       },
       {
         text: "React",
